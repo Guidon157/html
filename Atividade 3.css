@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+}
+h2 {
+    border-bottom: solid black;
+}
+.Matriz {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 20px;
+}
+.Legenda1 {
+    position: absolute;
+    bottom: 0;    
+    text-align: center;    
+}
+.Familia {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+.Legenda2 {
+    position: absolute;
+    bottom: 0;    
+    text-align: center;
+}
+
+
