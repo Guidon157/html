@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     width: 940px;
     position: absolute;
-    top: 50%;
+    top: 33%;
     left: 50%;
     transform: translate(-50%, -14%);
 }
@@ -15,34 +15,38 @@ h2 {
     border-bottom: solid black;
 }
 .Matriz {
+    width: 550px;
     position: relative;
-    display: flex;
-    justify-content: center;
+    left: 18%;
     background-color: whitesmoke;
-    margin-left: 30px;
-    margin-right: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 15px;
     padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .Legenda1 {
-    position: absolute;
-    bottom: 15px;    
-    text-align: center;    
+    position: relative;
+    bottom: 15px;
+    text-align: center;        
 }
 .Familia {
     position: relative;
-    display: flex;
-    justify-content: center;
+    float: right;
+    margin: 30px;    
     background-color: whitesmoke;
-    margin-right: 30px;
-    margin-left: 30px;
-    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
     padding-top: 15px;
 }
 .Legenda2 {
-    position: absolute;
+    position: relative;
     bottom: 15px;    
     text-align: center;
+}
+.Texto2 { 
+    position: relative;
+    width:60%;
+    
 }
 
 
