@@ -11,7 +11,7 @@ h1 {
     background-color: #E1EDF2;
     padding: 10px;
 }
-h2 {
+.Sub1 {
     border-bottom: solid black;
 }
 .Matriz {
@@ -45,8 +45,15 @@ h2 {
 }
 .Texto2 { 
     position: relative;
-    width:60%;
-    
+    width:60%;    
 }
+#Sub2 {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+    padding: 10px;
+    font-size: 30px;    
+}
+
+
 
 
