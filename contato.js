@@ -1,8 +1,8 @@
 function validarFormulario() {
     var nome = document.getElementById('nome').value;
-    var telefone = document.getElementById('foneid').value;
-    var email = document.getElementById('emailid').value;
-    var opiniao = document.getElementById('opiniao').value;
+    var telefone = document.getElementById('fone').value;
+    var email = document.getElementById('email').value;
+    var opiniao = document.getElementById('observação').value;
   
     if (nome === '' || nome.length < 10) {
       alert('Por favor, insira um nome com no mínimo 10 caracteres.');
