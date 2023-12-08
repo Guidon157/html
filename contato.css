@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica, sans-serif;
+    width: 940px;
+}
+.Titulo {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+    padding: 10px;
+    font-size: 32px;
+}
+#nome {
+    width: 500px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+#fone {
+    width: 500px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+#email {
+    width: 500px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+#observação {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+button {
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+}
